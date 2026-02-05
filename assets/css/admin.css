@@ -1,0 +1,11 @@
+/* Estilos básicos para la interfaz de configuración dentro del editor CF7 */
+.aacf7-wrap { border:1px solid #e1e1e1; padding:16px; background:#fff; }
+.aacf7-tabs { display:flex; gap:8px; margin-bottom:12px; }
+.aacf7-tab { background:#f7f7f7; border:1px solid #ddd; padding:8px 12px; cursor:pointer; }
+.aacf7-tab.active { background:#0073aa; color:#fff; }
+.aacf7-panel { display:none; background:#fff; padding:8px; border-top:1px solid #eee; }
+.aacf7-panel--active { display:block; }
+.aacf7-field { margin-bottom:12px; }
+.aacf7-input { width:100%; max-width:480px; padding:6px 8px; border:1px solid #ddd; border-radius:3px; }
+.aacf7-actions { margin-top:12px; }
+.aacf7-status { margin-left:12px; }

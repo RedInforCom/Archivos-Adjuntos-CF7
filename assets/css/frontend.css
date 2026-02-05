@@ -1,0 +1,14 @@
+/* Estilos compactos para el campo frontend */
+.aacf7-field-wrapper { border:1px solid #e6e6e6; padding:12px; border-radius:6px; margin-bottom:12px; font-family:inherit; }
+.aacf7-title { font-weight:600; margin-bottom:8px; }
+.aacf7-dropzone { border:2px dashed #ddd; padding:16px; text-align:center; cursor:pointer; border-radius:6px; position:relative; }
+.aacf7-icon { margin-bottom:8px; }
+.aacf7-drop-text { margin-bottom:12px; color:#666; }
+.aacf7-btn-attach { background:#0073aa; color:#fff; border:none; padding:8px 12px; border-radius:4px; cursor:pointer; }
+.aacf7-note { margin-top:8px; color:#777; font-size:13px; }
+.aacf7-files-list { margin-top:12px; }
+.aacf7-file-item { display:flex; align-items:center; justify-content:space-between; padding:8px; border:1px solid #eee; border-radius:4px; margin-bottom:6px; background:#fafafa; }
+.aacf7-file-meta { display:flex; gap:8px; align-items:center; }
+.aacf7-file-remove { color:#c00; cursor:pointer; margin-left:8px; }
+.aacf7-progress { height:6px; background:#eee; border-radius:6px; overflow:hidden; margin-left:12px; width:150px; }
+.aacf7-progress > span { display:block; height:100%; background:#0073aa; width:0%; }
