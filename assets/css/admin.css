@@ -1,0 +1,18 @@
+/* Archivos Adjuntos CF7 - Admin CSS */
+.aacf7-admin-container { margin: 20px 0; }
+.aacf7-tabs { display: flex; border-bottom: 2px solid #0073aa; margin-bottom: 20px; gap: 5px; }
+.aacf7-tab-btn { background: #f0f0f0; border: none; padding: 12px 20px; cursor: pointer; font-size: 14px; font-weight: 500; transition: all 0.3s; border-radius: 4px 4px 0 0; }
+.aacf7-tab-btn:hover { background: #e0e0e0; }
+.aacf7-tab-btn.active { background: #0073aa; color: white; }
+.aacf7-tab-content { display: none; padding: 20px; background: #fff; border: 1px solid #ddd; border-top: none; }
+.aacf7-tab-content.active { display: block; }
+.aacf7-style-section { margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #eee; }
+.aacf7-style-section:last-child { border-bottom: none; }
+.aacf7-style-section h4 { color: #0073aa; margin-bottom: 15px; }
+.aacf7-color-picker { max-width: 100px; }
+.aacf7-conditional { margin-top: 10px; }
+.aacf7-help-box { background: #f0f8ff; padding: 15px; border-left: 4px solid #0073aa; margin: 15px 0; }
+.aacf7-help-box h4 { margin-top: 0; color: #0073aa; }
+.aacf7-help-box ol { margin: 10px 0 10px 20px; }
+.aacf7-help-box code { background: #fff; padding: 2px 6px; border-radius: 3px; }
+.form-table th { width: 250px; }
